@@ -1,0 +1,27 @@
+.content {
+  padding-top: 100px;
+  padding-bottom: 10px;
+}
+h1 {
+  color: #0e2d53;
+}
+ p{
+  color: #0e2d53;
+  line-height: 40px;
+  font-size: 20px;
+}
+a {
+  color: #10767b;
+}
+h5{
+
+  line-height: 40px;
+  font-size: 20px;
+  color: #0e2d53;
+}
+
+.content-2{
+    
+  max-width: 1200px;
+
+}

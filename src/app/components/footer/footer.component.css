@@ -1,0 +1,40 @@
+li{
+   list-style-type:  none;
+   font-size: 20px;
+   color:#0e2d53;
+
+}
+h3{
+    color: #0e2d53;
+}
+img{
+    width:190px;
+    height:160px;
+}
+.l2 img{
+    width:20px;
+    height:20px;
+    vertical-align: middle;
+}
+.l3 img{
+    height:20px;
+    width:20px;
+    margin:8px;
+}
+  i{
+   margin:2px;
+   font-size:24px;
+    width:28px;
+    height:31px;
+    background-color: #10767b;
+     color:#ffffff;
+    border-radius: 25px;
+    padding-left:10px;
+  }
+    @media screen and (max-width: 1279px) {
+   .l1,.l2,.l3 {
+     text-align: center;
+  }
+
+    }
+ 

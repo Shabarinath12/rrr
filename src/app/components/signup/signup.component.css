@@ -1,0 +1,27 @@
+.signup {
+  padding-top: 50px;
+  height:300px;
+}
+h2 {
+  color: #0e2d53;
+}
+p {
+  color: #0e2d53;
+}
+input {
+  width: 259px;
+  height: 50px;
+  border-radius: 2px;
+  border: solid 0.5px #d1d1d1;
+}
+button {
+  width: 150px;
+  height: 50px;
+  border-radius: 2px;
+  background-color: #10767b;
+  color:white;
+}
+.b1{
+    padding-top: 30px;
+}
+ 
